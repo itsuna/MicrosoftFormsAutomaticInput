@@ -1,0 +1,11 @@
+{
+    "example": {
+        "Choice": "QuestionId_r9ec03558897f4a2cb68fc9e91200b0a4",
+        "Text": "QuestionId_rdbe4706419d6406383e12cfcf745b090",
+        "Rating": "QuestionId_r282bcbbd5bd24225ab6e05f132a80981",
+        "Date": "QuestionId_r172dc97b813f4642b07fb84f2ef165e3",
+        "Ranking": "QuestionId_r16c93529d6024859b9433bfaefae2885",
+        "Likert": "QuestionId_r93a3daf283534c0e8dacccd2d78d0626",
+        "Net Promoter Score": "QuestionId_r15b4a23eaabb4de0a6ec51a9999f51f6"
+    }
+}
