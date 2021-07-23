@@ -1,0 +1,20 @@
+{
+    "example": {
+        "Choice": "Option 1",
+        "Text": "Input text here.",
+        "Rating": "3",
+        "Date": "3/19/2021",
+        "Ranking": "Option 1",
+        "Likert": [
+            {
+                "Row": "Statement 1",
+                "Choice": "Option 4"
+            },
+            {
+                "Row": "Statement 2",
+                "Choice": "Option 2"
+            }
+        ],
+        "Net Promoter Score": "3"
+    }
+}
